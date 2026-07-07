@@ -1,0 +1,13 @@
+{
+  "name": "codesnip",
+  "version": "1.0.0",
+  "description": "Condividi snippet di codice tra dispositivi con syntax highlighting e copia rapida",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
